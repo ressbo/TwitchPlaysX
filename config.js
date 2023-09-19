@@ -1,5 +1,5 @@
 // change these two variables
-let channel = process.env.TWITCH_CHANNEL || "twitchplayspokemon";
+let channel = process.env.TWITCH_CHANNEL || "Seapeekay";
 let programName =
   process.env.CONFIG_PROGRAM_NAME || "VisualBoyAdvance";
   
